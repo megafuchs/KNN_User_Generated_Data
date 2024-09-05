@@ -18,22 +18,4 @@ NumPy
 Matplotlib
 Scikit-Learn
 Seaborn
-Installation
-Clone the repository to your local machine:
-
-bash
-Code kopieren
-git clone https://github.com/yourusername/recommender-system-toolkit.git
-Install the required packages:
-
-bash
-Code kopieren
-pip install -r requirements.txt
-Usage
-Navigate to the cloned repository and start Jupyter Notebook:
-
-bash
-Code kopieren
-jupyter notebook
-Open the public_KNN_Challenge.ipynb notebook to run the scripts and view the visualizations.
 
